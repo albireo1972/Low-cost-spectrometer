@@ -1,0 +1,7 @@
+IN ANY USE, IT MUST BE CLAIMED THAT THIS DESIGN COMES FROM:
+- XABIER QUINTANA ARREGI, UNIVERSIDAD POLITÉCNICA DE MADRID
+- OSCAR ESTEBAN MARTINEZ, UNIVERSIDAD DE ALCALÁ DE HENARES
+- RICARDO VERGAZ BENITO, UNIVERSIDAD CARLOS III DE MADRID
+
+This work has been partially supported by Spanish Economy and Competitiveness Ministry (AEI/FEDER funds, UE) through projects TEC2016-77242-C3-1-R and TEC2016-77242-C3-2-R, and by the Comunidad de Madrid programs SINFOTON-CM (S2013/MIT-2790) and SINFOTON2-CM (P2018/NMT- 4326).
+The authors also wish to thank Mr. Armando Muñoz for his contributions to the mechanics and electronics of the project
